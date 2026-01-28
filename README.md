@@ -93,9 +93,9 @@ Sử dụng các công cụ AI để hỗ trợ cấu hình phần cứng, cài 
 ---
 
 ## Công cụ sử dụng
-- Google Gemini  
-- Canva AI  
-- Chat GPT
+- [Google Gemini](https://gemini.google.com/)  
+- [Canva AI](https://www.canva.com)  
+- [Chat GPT](https://chatgpt.com)
 
 ## Bản quyền
 Nội dung trong repository này được chia sẻ theo giấy phép **Creative Commons Attribution 4.0 (CC BY 4.0)**.
